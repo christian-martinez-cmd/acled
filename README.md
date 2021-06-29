@@ -9,3 +9,7 @@ The Armed Conflict Location & Event Data Project (ACLED) is a disaggregated data
 # Initial CSV
 
 The initial CSV file used was over 300MB and could not be uploaded to Github due to size limitations. The large CSV was subsequently reduced with only the North America region instead of the rest of the other regions.
+
+# Follow-on actions
+
+The USA data has been a recent addition to the ACLED dataset, therefore historical protests and conflicts have not been recorded prior to 2018. Additional time is required to gather stronger insights and future statistical predictions. 
